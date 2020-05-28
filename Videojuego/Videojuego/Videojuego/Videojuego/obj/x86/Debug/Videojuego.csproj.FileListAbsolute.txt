@@ -1,0 +1,39 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Videojuego.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Videojuego.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Videojuego.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Videojuego.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Videojuego.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Sprite 1.xnb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Videojuego.exe
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Videojuego.pdb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Videojuego.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Videojuego.exe
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\obj\x86\Debug\Videojuego.pdb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Sprite4.xnb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Sprite10.xnb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Sprite8.xnb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Sprite13.xnb
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\Videojuego\bin\x86\Debug\Content\Piedra1.xnb

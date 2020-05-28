@@ -1,0 +1,2 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Videojuego\Videojuego\VideojuegoContent\obj\x86\Debug\VideojuegoContent.contentprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Videojuego\Videojuego\Videojuego\VideojuegoContent\obj\x86\Debug\VideojuegoContent.contentprojResolveAssemblyReference.cache

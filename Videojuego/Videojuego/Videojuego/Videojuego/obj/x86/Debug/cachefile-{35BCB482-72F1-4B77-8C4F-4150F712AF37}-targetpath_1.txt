@@ -1,0 +1,8 @@
+Content\Fondo.xnb
+Content\Sprite11.xnb
+Content\Sprite4.xnb
+Content\Sprite5.xnb
+Content\Sprite1.xnb
+Content\Sprite10.xnb
+Content\Sprite6.xnb
+Content\Sprite8.xnb
